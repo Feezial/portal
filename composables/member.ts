@@ -47,6 +47,12 @@ export const useMember = () => {
       description: "Superman",
       skill: "Boxing Fivem",
     },
+    {
+      image:"https://media.discordapp.net/attachments/943188689952063499/1030488269449875618/unknown.png?width=676&height=676",
+      nickname: "Feezail",
+      description: "Mairu",
+      skill: "Front-end Develop"
+    }
   ];
   return { myG };
 };
